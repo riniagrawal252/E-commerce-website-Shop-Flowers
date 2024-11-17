@@ -5,21 +5,25 @@ Welcome to Shopper, a simple and elegant e-commerce platform where users can sho
 
 Features
 Dynamic Navbar: A responsive navigation bar with menu highlighting based on the current page.
+
 User Authentication: Login and logout functionality with user data stored in localStorage.
+
 Shopping Categories: Browse items under categories like Flowers, Cake, and Plants.
+
 Shopping Cart: Add items to the cart and see a dynamic cart count in the navbar.
+
 Responsive Design: Works seamlessly across devices.
+
 Screenshots
 
 Tech Stack
 Frontend: React, React Router
+
 State Management: React Context API
+
 Styling: CSS
+
 Assets: Custom logos and icons
-Installation
-Follow these steps to run the project locally:
-
-
 
 Usage
 
