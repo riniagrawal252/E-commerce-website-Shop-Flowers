@@ -22,6 +22,9 @@ Screenshots
 ![image](https://github.com/user-attachments/assets/489d5f88-a040-4314-bc28-8ba59c984514)
 ![image](https://github.com/user-attachments/assets/1d36432c-aa79-411c-9c1e-fd704d0e60d5)
 ![image](https://github.com/user-attachments/assets/638dcf0b-19b2-4af7-8fae-41a08adb7bb2)
+![image](https://github.com/user-attachments/assets/d79cf424-c535-4452-8357-04c7d5b3e8e9)
+![image](https://github.com/user-attachments/assets/295f0ecc-286b-4472-910c-ff72180aced4)
+
 
 
 Tech Stack
