@@ -1,0 +1,38 @@
+{
+  "customer": [
+    {
+      "id": 1,
+      "userid": "Naincy",
+      "email": "naincy@gmail.com",
+      "password": 12345
+    },
+    {
+      "id": 2,
+      "userid": "Ayushi",
+      "email": "ayushi@gmail.com",
+      "password": 123456
+    },
+    {
+      "username": "Naincy",
+      "password": "12345",
+      "id": 3
+    },
+    {
+      "username": "Rini Agrawal",
+      "password": "4567",
+      "id": 4
+    },
+    {
+      "userid": "Rini Agrawal",
+      "email": "riniagrawal252@gmail.com",
+      "password": "123456",
+      "id": 5
+    },
+    {
+      "userid": "Rini Agrawal",
+      "email": "riniagrawal25@gmail.com",
+      "password": "12345678",
+      "id": 6
+    }
+  ]
+}
