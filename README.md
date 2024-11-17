@@ -15,6 +15,14 @@ Shopping Cart: Add items to the cart and see a dynamic cart count in the navbar.
 Responsive Design: Works seamlessly across devices.
 
 Screenshots
+![image](https://github.com/user-attachments/assets/d661cc11-7960-498e-9069-f9129b94d679)
+![image](https://github.com/user-attachments/assets/31043007-2a6e-4c7e-84f7-e26a0d2917d0)
+![image](https://github.com/user-attachments/assets/5544cada-5751-4c5f-8247-e19ea6121c42)
+![image](https://github.com/user-attachments/assets/36ea58ff-2277-477e-8b97-8146f5092412)
+![image](https://github.com/user-attachments/assets/489d5f88-a040-4314-bc28-8ba59c984514)
+![image](https://github.com/user-attachments/assets/1d36432c-aa79-411c-9c1e-fd704d0e60d5)
+![image](https://github.com/user-attachments/assets/638dcf0b-19b2-4af7-8fae-41a08adb7bb2)
+
 
 Tech Stack
 Frontend: React, React Router
